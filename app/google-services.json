@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569043665284",
+    "project_id": "vl-anime",
+    "storage_bucket": "vl-anime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569043665284:android:0052a28655fac596be5dd1",
+        "android_client_info": {
+          "package_name": "com.vl.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569043665284-ls5hh08i53frj8e2ba0mbh1h3j8drisp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriXoRRRDpbnAH9XPQQlfhNrHw_gylUdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569043665284-ls5hh08i53frj8e2ba0mbh1h3j8drisp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
